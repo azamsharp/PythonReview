@@ -11,3 +11,5 @@ def multiply(a, b):
 def divide(a,b): 
   return a / b 
 
+def calculateArea(w, h): 
+  return w * h 
